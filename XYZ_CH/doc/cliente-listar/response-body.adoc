@@ -1,0 +1,4 @@
+[source,json,options="nowrap"]
+----
+[{"nombre":"Pedro","grupo":"th","correo":"aaa","telefono":null,"beneficio":"Descuento1"}]
+----
